@@ -15,6 +15,8 @@
 
 - 🌱 I’m working on **Android, Kotlin, Compose and TDD**
 
+- - 🌱 I’m top rated plus developer on **Upwork**
+
 - 💬 Ask me about **Android, Kotlin, KMP, Compose**
 
 - 📫 How to reach me **muazzam.abbas97@gmail.com**
