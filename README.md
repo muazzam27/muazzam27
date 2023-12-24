@@ -23,9 +23,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbas427&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muazzam27&count_private=true&show_icons=true" />
 </p>
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas427&" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazzam27&" />
 </p>
