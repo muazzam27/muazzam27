@@ -22,9 +22,6 @@
 - 📫 How to reach me **muazzam.abbas97@gmail.com**
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muazzam27&count_private=true&show_icons=true" />
-</p>
 <br />
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazzam27&" />
