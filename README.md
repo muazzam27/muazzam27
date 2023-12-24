@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, My name is Muazzam</h1>
 
-<!--
-**muazzam27/muazzam27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muazzam27&label=Profile%20views&color=0e75b6&style=flat" alt="muazzam27" /> </p>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<p align="center">  
+ <a href="https://www.linkedin.com/in/muazzam-abbas-055a5b5b/">
+    <img alt="Muazzam LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<br />
+
+- 🌱 I’m working on **Android, Kotlin, Compose and TDD**
+
+- 💬 Ask me about **Android, Kotlin, KMP, Compose**
+
+- 📫 How to reach me **muazzam.abbas97@gmail.com**
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muazzam27&count_private=true&show_icons=true" />
+</p>
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazzam27&" />
+</p>
