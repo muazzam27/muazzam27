@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Muazzam, an Android developer. Welcome to my GitHub profile!</h1>
+<h1 align="center">Hi there! 👋 I'm Muazzam.</h1>
 
 Passionate Android Developer with a focus on creating clean, efficient, and delightful user experiences.
 
