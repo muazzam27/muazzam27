@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, My name is Muazzam</h1>
 
+<p Passionate Android Developer with a focus on creating clean, efficient, and delightful user experiences.</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muazzam27&label=Profile%20views&color=0e75b6&style=flat" alt="muazzam27" /> </p>
 
 <p align="center">
