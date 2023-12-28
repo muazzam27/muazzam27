@@ -28,3 +28,5 @@ Passionate Android Developer with a focus on creating clean, efficient, and deli
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazzam27&" />
 </p>
+
+Thank you for stopping by! 😊
