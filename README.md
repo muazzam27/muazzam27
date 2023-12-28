@@ -4,19 +4,9 @@ Passionate Android Developer with a focus on creating clean, efficient, and deli
 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muazzam-abbas-055a5b5b/)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muazzam.abbas97@gmail.com)
+<p> <img src="https://komarev.com/ghpvc/?username=muazzam27&label=Profile%20views&color=0e75b6&style=flat" alt="muazzam27" /> </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muazzam27&label=Profile%20views&color=0e75b6&style=flat" alt="muazzam27" /> </p>
-
-<p align="center">
-
-</p>
-
-<p align="center">  
- <a href="https://www.linkedin.com/in/muazzam-abbas-055a5b5b/">
-    <img alt="Muazzam LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
 <br />
 
 - 🌱 I’m working on **Android, Kotlin, Compose and TDD**
